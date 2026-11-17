@@ -1,0 +1,59 @@
+{
+    "name": "Yousuf Ahmed Mohamed Gamal Eldeen — Portfolio",
+    "short_name": "YGE Portfolio",
+    "description": "Yousuf Gamal Eldeen - Medical Student and Software Developer specializing in healthcare technology, web development, and innovative solutions. View my projects, skills, and certifications.",
+    "start_url": "/portfolio/",
+    "scope": "/portfolio/",
+    "display": "standalone",
+    "background_color": "#8b5cf6",
+    "theme_color": "#6366f1",
+    "orientation": "portrait-primary",
+    "lang": "en-US",
+    "dir": "ltr",
+    "categories": [
+        "portfolio",
+        "development",
+        "design",
+        "technology"
+    ],
+    "icons": [
+        {
+            "src": "./assets/images/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./assets/images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Projects",
+            "short_name": "Projects",
+            "description": "View my latest work and case studies",
+            "url": "/#projects",
+            "icons": [
+                {
+                    "src": "./assets/images/icon-192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Contact",
+            "short_name": "Contact",
+            "description": "Get in touch with me",
+            "url": "/#contact",
+            "icons": [
+                {
+                    "src": "./assets/images/icon-192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ]
+}

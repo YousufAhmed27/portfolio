@@ -1,0 +1,721 @@
+{
+  "name": "Yousuf Gamal Eldeen",
+  "title": "Medical Student & Software Developer",
+  "description": "Combining medical studies with advanced web and app development to build scalable, modern digital experiences",
+  "roles": [
+    "Medical Student",
+    "Software Developer",
+    "Problem Solver",
+    "Tech Enthusiast",
+    "Web Developer"
+  ],
+  "about": "I am a medical student who discovered a deep passion for software development and modern technology. While my academic background is in medicine, my professional and personal drive is centered around full-stack software engineering, building robust web applications, and creating efficient digital products. When I'm not studying, you'll find me coding, architecting applications, and exploring new technologies. My goal is to leverage my analytical problem-solving skills from medicine to deliver exceptional, high-quality software.",
+  "social": {
+    "github": "https://github.com/YousufAhmed27",
+    "linkedin": "https://www.linkedin.com/in/yousuf-gamal-eldeen-6545a3281/",
+    "twitter": "",
+    "email": "yousufgamal007@gmail.com"
+  },
+  "cvFile": "Yousuf Gamal Eldeen CV.pdf",
+  "stats": {
+    "Technologies": 20,
+    "Years Coding": 10
+  },
+  "projects": [
+    {
+      "title": "Queenture",
+      "description": "A feature-rich e-commerce platform for modern furniture featuring multi-role user workflows (Client, User, Admin) and an integrated automated mailing system.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "SQL"
+      ],
+      "image": "fa-shopping-cart",
+      "liveUrl": "https://menna-gamal-eldien.github.io/Queenture/",
+      "githubUrl": "https://github.com/menna-gamal-eldien/Queenture"
+    },
+    {
+      "title": "GameCenter Platform",
+      "description": "An in-development online gaming platform and community hub where users can play multiplayer/solo games, share gaming moments, and engage through social interactions.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "SQL",
+        "MySQL"
+      ],
+      "image": "fa-gamepad",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Thunder Web Forge",
+      "description": "A developer acceleration toolkit providing reusable UI templates, notification systems, and navbar components so web developers can focus on complex logic.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "fa-bolt",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "EduJoe E-Learning",
+      "description": "An online course platform featuring both free and premium educational content for students seeking skill upgrading and structured subject learning.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "SQL",
+        "MySQL"
+      ],
+      "image": "fa-graduation-cap",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "OmniSales Enterprise Management Suite",
+      "description": "A full-featured C# desktop sales and inventory system with granular RBAC (6 user tiers), data visualization, automated database backups, Excel import/export, and audit logging.",
+      "technologies": [
+        "C#",
+        ".NET",
+        "SQL",
+        "MS Access",
+        "Excel API"
+      ],
+      "image": "fa-cash-register",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "RecipeVault Studio",
+      "description": "A desktop recipe organizer supporting online search, custom entries, formatted print layouts, and peer-to-peer data synchronization with version controls.",
+      "technologies": [
+        "C#",
+        ".NET",
+        "MS Access"
+      ],
+      "image": "fa-utensils",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Smart Folder Organizer",
+      "description": "An automated file sorting utility that categorizes raw files by file extension and sub-organizes them into Small, Medium, and Large directories.",
+      "technologies": [
+        "Python",
+        "OS Automation"
+      ],
+      "image": "fa-folder-open",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/YousufAhmed27/Smart_Folder"
+    },
+    {
+      "title": "TurboCompress Engine",
+      "description": "A multi-threaded parallel compression tool using multiple CPU cores to process files in bulk while generating detailed performance log files.",
+      "technologies": [
+        "Python",
+        "Multithreading",
+        "File Systems"
+      ],
+      "image": "fa-file-archive",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "SpriteScaler Studio",
+      "description": "A specialized game-development asset tool that resizes entire folders of images to uniform sprite dimensions in bulk without quality loss.",
+      "technologies": [
+        "C#",
+        "Image Processing"
+      ],
+      "image": "fa-image",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "QuickPOS Billing System",
+      "description": "A streamlined retail desktop application for barcode-assisted checkout, database price matching, quantity input, and automated receipt printing.",
+      "technologies": [
+        "C#",
+        "SQL",
+        "Hardware Integration"
+      ],
+      "image": "fa-receipt",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Furniture Sales Manager (Excel Edition)",
+      "description": "A VBA and SQL-powered Excel sales assessment tool tailored for furniture stores, offering multi-level authentication and sales performance tracking.",
+      "technologies": [
+        "Excel VBA",
+        "SQL",
+        "Macros"
+      ],
+      "image": "fa-table",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Countries Explorer API",
+      "description": "A dynamic world atlas web app with theme switching, full-text country search, regional filtering, and deep detail views for demographics and borders.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "RESTful API"
+      ],
+      "image": "fa-globe",
+      "liveUrl": "https://YousufAhmed27.github.io/Country_API",
+      "githubUrl": "https://github.com/YousufAhmed27/Country_API"
+    },
+    {
+      "title": "Social Media Dashboard",
+      "description": "An all-in-one analytics dashboard aggregating key metrics like engagement, comments, activity time, and growth rates across platforms with visual themes.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "fa-chart-line",
+      "liveUrl": "https://YousufAhmed27.github.io/Social-Media-Dashboard",
+      "githubUrl": "https://github.com/YousufAhmed27/Social-Media-Dashboard"
+    },
+    {
+      "title": "Rock-Paper-Scissors-Lizard-Spock",
+      "description": "An interactive web implementation of the classic game featuring standard and extended difficulty modes (including Lizard & Spock rules).",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "fa-hand-rock",
+      "liveUrl": "https://YousufAhmed27.github.io/Rock-Paper-Scissors",
+      "githubUrl": "https://github.com/YousufAhmed27/Rock-Paper-Scissors"
+    },
+    {
+      "title": "Natural Selection & Evolution Simulator",
+      "description": "An AI simulation demonstrating evolutionary survival mechanisms by combining steering behaviors, dynamic health decay, and random perception radius traits.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "HTML5 Canvas",
+        "AI Algorithms"
+      ],
+      "image": "fa-dna",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "A* Pathfinding Visualizer",
+      "description": "An interactive algorithm demonstration showing how the A* search algorithm navigates complex dynamic mazes from origin to exit.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Algorithms"
+      ],
+      "image": "fa-route",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Steering Behaviors Playground",
+      "description": "A interactive canvas tool visualizing autonomous agent movement rules including seeking, fleeing, wandering, containment, queuing, and flocking.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Physics/Math"
+      ],
+      "image": "fa-project-diagram",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Procedural Maze Generator",
+      "description": "A visual canvas-based algorithm tool that generates complex random mazes step-by-step for game development prototyping.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "HTML5 Canvas"
+      ],
+      "image": "fa-cubes",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Elementals Game",
+      "description": "An immersive canvas browser game where players control elements (water, fire, earth, air, etc.) to defeat bosses and conquer territory.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "HTML5 Canvas"
+      ],
+      "image": "fa-fire",
+      "liveUrl": "https://YousufAhmed27.github.io/Elementals",
+      "githubUrl": "https://github.com/YousufAhmed27/Elementals"
+    },
+    {
+      "title": "Hero Dog Game",
+      "description": "A web-based arcade canvas game featuring a puppy dodging obstacles and hostile creatures on a quest to rescue its owner.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "HTML5 Canvas"
+      ],
+      "image": "fa-shield-alt",
+      "liveUrl": "https://YousufAhmed27.github.io/WhiteDog",
+      "githubUrl": "https://github.com/YousufAhmed27/WhiteDog"
+    },
+    {
+      "title": "Global Accident Analytics Dashboard",
+      "description": "Transferred global accident datasets (locations, fatalities, vehicle counts) into Power BI, cleaned complex raw data using M / Power Query, and built an interactive executive dashboard for risk analysis.",
+      "technologies": [
+        "Power BI",
+        "Power Query (M Language)",
+        "DAX",
+        "Excel"
+      ],
+      "image": "fa-car-crash",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Enterprise Sales Intelligence Dashboard",
+      "description": "End-to-end data transformation pipeline and star-schema dimensional modeling in Power BI to analyze enterprise sales performance, revenue metrics, and product trends through custom DAX measures.",
+      "technologies": [
+        "Power BI",
+        "Power Query (M Language)",
+        "DAX",
+        "Data Modeling"
+      ],
+      "image": "fa-chart-bar",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Titanic Survival & Demographic Insights Dashboard",
+      "description": "Cleaned and modeled Titanic survival raw data into dual interactive Power BI dashboards equipped with custom dynamic slicers for deep demographic and survival correlation analysis.",
+      "technologies": [
+        "Power BI",
+        "Power Query (M Language)",
+        "DAX",
+        "Data Cleaning"
+      ],
+      "image": "fa-ship",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "HR Attrition & Workforce Satisfaction Analytics",
+      "description": "Interactive Tableau dashboard identifying turnover root causes across age groups, salaries, and departments—revealing key compensation vs. retention insights for executive decision-making.",
+      "technologies": [
+        "Tableau",
+        "Tableau Calculated Fields",
+        "HR Analytics",
+        "Data Visualization"
+      ],
+      "image": "fa-users-slash",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Four-Decade HR & Workforce Trends (1986–2025)",
+      "description": "Comprehensive historical analysis of 40 years of HR data in Tableau, examining hiring trajectories, salary progression, department evolution, and long-term retention dynamics.",
+      "technologies": [
+        "Tableau",
+        "Tableau Calculated Fields",
+        "Time Series Analysis",
+        "Workforce Analytics"
+      ],
+      "image": "fa-history",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Joe Medical Mentor (Telegram Bot)",
+      "description": "An intelligent Telegram assistant providing medical students with quizzes, reference materials, case studies, flashcards, and drug interaction lookups.",
+      "technologies": [
+        "Python",
+        "SQLite",
+        "Telegram Bot API"
+      ],
+      "image": "fa-user-md",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "JoeChat Encryption Bot",
+      "description": "A security-focused Telegram bot enabling users to encode, decode, and transmit encrypted messages via custom security keys directly within chats.",
+      "technologies": [
+        "Python",
+        "Cryptography",
+        "Telegram Bot API"
+      ],
+      "image": "fa-lock",
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Themeable Calculator App",
+      "description": "A clean web calculator supporting multi-theme visual customization and responsive layout controls.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "fa-calculator",
+      "liveUrl": "https://YousufAhmed27.github.io/Calculator-App",
+      "githubUrl": "https://github.com/YousufAhmed27/Calculator-App"
+    },
+    {
+      "title": "Custom Portfolio Websites",
+      "description": "Bespoke personal portfolio websites designed and built for individual clients to present their personal branding and project showcase.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Responsive Design"
+      ],
+      "image": "fa-laptop-code",
+      "liveUrl": "",
+      "githubUrl": ""
+    }
+  ],
+  "skills": {
+    "Frontend Development": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "HTML5 Canvas",
+      "React",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "Backend & Database": [
+      "Node.js",
+      "Python",
+      "PHP",
+      "C# (.NET)",
+      "SQL",
+      "MySQL",
+      "SQLite",
+      "MongoDB",
+      "PostgreSQL",
+      "MS Access",
+      "REST APIs"
+    ],
+    "Desktop & Automation": [
+      "C# Windows Apps",
+      "Python Automation / Scripting",
+      "Multithreading",
+      "Excel VBA",
+      "Image Processing"
+    ],
+    "AI & Simulations": [
+      "Steering Behaviors",
+      "A* Pathfinding",
+      "Procedural Generation",
+      "Natural Selection / Genetic Algorithms"
+    ],
+    "Tools & Platforms": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Docker",
+      "Firebase",
+      "AWS",
+      "Figma"
+    ],
+    "Medical Knowledge": [
+      "Anatomy",
+      "Physiology",
+      "Pharmacology",
+      "Pathology",
+      "Clinical Skills",
+      "Medical Terminology"
+    ]
+  },
+  "certificates": {
+    "Work & Volunteer": [
+      {
+        "title": "Medical Volunteer Program",
+        "issuer": "Local Hospital",
+        "date": "2023",
+        "credentialId": "",
+        "url": "",
+        "image": ""
+      },
+      {
+        "title": "Medical Convoy Participant",
+        "issuer": "The Helpers in collaboration with Resala Association - October Branch",
+        "date": "October 16",
+        "credentialId": "",
+        "url": "",
+        "image": "./assets/certificates/Resala - Volunteer.webp"
+      },
+      {
+        "title": "Annual Medical Conference - Obesity: A Multidisciplinary Approach",
+        "issuer": "October 6 University, Faculty of Medicine and Surgery",
+        "date": "May 10th, 2026",
+        "credentialId": "",
+        "url": "",
+        "image": "./assets/certificates/annual medical conference.webp"
+      },
+      {
+        "title": "1st Aid & CPR Course",
+        "issuer": "Dr. Mahmoud Shoura",
+        "date": "February 27th - 28th, 2022",
+        "credentialId": "",
+        "url": "",
+        "image": "./assets/certificates/first aid.webp"
+      }
+    ],
+    "Education": [
+      {
+        "title": "Medical Degree (In Progress)",
+        "issuer": "Cairo University",
+        "date": "2020 - Present",
+        "credentialId": "",
+        "url": "",
+        "image": ""
+      },
+      {
+        "title": "CS50x: CS50's Introduction to Computer Science",
+        "issuer": "HarvardX / edX",
+        "date": "Issued Month / Year",
+        "credentialId": "12345678901234567890",
+        "url": "",
+        "image": "./assets/certificates/HarvardX - CS50.webp"
+      }
+    ],
+    "Technical": [
+      {
+        "title": "Data Analytics - Google Data Analyst Specialist",
+        "issuer": "Ministry of Communications and Information Technology of Egypt (DEPI)",
+        "date": "November 2024 - May 2025",
+        "credentialId": "",
+        "url": "",
+        "image": "./assets/certificates/DEPI - Data analysis.webp"
+      },
+      {
+        "title": "PHP Certification - PHP Problem Solving",
+        "issuer": "CodinGame by CoderPad",
+        "date": "Dec 6, 2024",
+        "credentialId": "10289674",
+        "url": "",
+        "image": "./assets/certificates/GameCode - PHP.webp"
+      },
+      {
+        "title": "C# (Basic)",
+        "issuer": "HackerRank",
+        "date": "26 Oct, 2024",
+        "credentialId": "E83AC1604B6D",
+        "url": "",
+        "image": "./assets/certificates/HackerRank - C sharp basic.webp"
+      },
+      {
+        "title": "Frontend Developer (React)",
+        "issuer": "HackerRank",
+        "date": "18 Dec, 2024",
+        "credentialId": "97DE5DE5815E",
+        "url": "",
+        "image": "./assets/certificates/HackerRank - Frontend developer react.webp"
+      },
+      {
+        "title": "JavaScript (Basic)",
+        "issuer": "HackerRank",
+        "date": "04 Dec, 2024",
+        "credentialId": "F734A72BA33A",
+        "url": "",
+        "image": "./assets/certificates/HackerRank - Javascript basic.webp"
+      },
+      {
+        "title": "Problem Solving (Basic)",
+        "issuer": "HackerRank",
+        "date": "29 Nov, 2024",
+        "credentialId": "23EOC6D69E6B",
+        "url": "",
+        "image": "./assets/certificates/HackerRank - Problem solving basic.webp"
+      },
+      {
+        "title": "Python (Basic)",
+        "issuer": "HackerRank",
+        "date": "05 Sep, 2024",
+        "credentialId": "A3B50A8161E2",
+        "url": "",
+        "image": "./assets/certificates/HackerRank - Python basic.webp"
+      },
+      {
+        "title": "SQL (Basic)",
+        "issuer": "HackerRank",
+        "date": "29 Nov, 2024",
+        "credentialId": "9FB285A9D317",
+        "url": "",
+        "image": "./assets/certificates/HackerRank - SQL basic.webp"
+      },
+      {
+        "title": "SQL (Intermediate)",
+        "issuer": "HackerRank",
+        "date": "18 Dec, 2024",
+        "credentialId": "71BC38882CA6",
+        "url": "",
+        "image": "./assets/certificates/HackerRank - SQL intermediate.webp"
+      },
+      {
+        "title": "Python And Flask Framework Complete Course",
+        "issuer": "Udemy (Horizon Tech)",
+        "date": "Aug. 23, 2025",
+        "credentialId": "UC-90b57775-2402-428e-86b5-27b0c3e175e6",
+        "url": "https://ude.my/UC-90b57775-2402-428e-86b5-27b0c3e175e6",
+        "image": "./assets/certificates/Udemy - Python + Flask.webp"
+      },
+      {
+        "title": "Web Development Challenger Track",
+        "issuer": "Ministry of Communications and Information Technology / Udacity",
+        "date": "September 2022",
+        "credentialId": "JDFTGE2T",
+        "url": "",
+        "image": "./assets/certificates/Udacity - Web development.webp"
+      },
+      {
+        "title": "Ethical Hacking | Introduction and Practical Concepts",
+        "issuer": "Udemy (Hadi Hawla)",
+        "date": "Aug. 7, 2025",
+        "credentialId": "UC-f36a3fa3-7860-4da3-80a1-a3d166c2195c",
+        "url": "https://ude.my/UC-f36a3fa3-7860-4da3-80a1-a3d166c2195c",
+        "image": "./assets/certificates/Udemy - Ethical hacking Beginner.webp"
+      },
+      {
+        "title": "Ethical Hacking: Web Enumeration",
+        "issuer": "Udemy (Peter A)",
+        "date": "Aug. 7, 2025",
+        "credentialId": "UC-87b560bc-c458-4232-8ff3-829e903174e3",
+        "url": "https://ude.my/UC-87b560bc-c458-4232-8ff3-829e903174e3",
+        "image": "./assets/certificates/Udemy - Ethical hacking Web enumeration.webp"
+      },
+      {
+        "title": "HTML 5, Python, Django And Flask Framework Full-Stack Course",
+        "issuer": "Udemy (Horizon Tech)",
+        "date": "May 6, 2024",
+        "credentialId": "UC-108b7179-b7d5-4964-8376-a65187a80e5f",
+        "url": "https://ude.my/UC-108b7179-b7d5-4964-8376-a65187a80e5f",
+        "image": "./assets/certificates/Udemy - Fullstack developer.webp"
+      },
+      {
+        "title": "Javascript For Beginners Complete Course",
+        "issuer": "Udemy (PROPER DOT INSTITUTE)",
+        "date": "Aug. 26, 2023",
+        "credentialId": "UC-ea3e655c-a08d-46a1-981c-57f50c2ada2d",
+        "url": "https://ude.my/UC-ea3e655c-a08d-46a1-981c-57f50c2ada2d",
+        "image": "./assets/certificates/Udemy - JS.webp"
+      },
+      {
+        "title": "Machine Learning - From Basics to Advanced",
+        "issuer": "Udemy (EdYoda for Business, Awantik Das)",
+        "date": "Aug. 22, 2025",
+        "credentialId": "UC-0fd1ae37-9a76-43ea-a797-afb95e3e1f71",
+        "url": "https://ude.my/UC-0fd1ae37-9a76-43ea-a797-afb95e3e1f71",
+        "image": "./assets/certificates/Udemy - Machine Learning.webp"
+      },
+      {
+        "title": "Python Programming - From Basics to Advanced level",
+        "issuer": "Udemy (EdYoda Digital University, Dipesh Sharma)",
+        "date": "July 1, 2023",
+        "credentialId": "UC-a84c51a5-69b6-4f84-bb00-d840c36fac19",
+        "url": "https://ude.my/UC-a84c51a5-69b6-4f84-bb00-d840c36fac19",
+        "image": "./assets/certificates/Udemy - Python 1.webp"
+      },
+      {
+        "title": "The Python Programming A-Z Definitive Diploma",
+        "issuer": "Udemy (SDE Arts | Octavo)",
+        "date": "July 1, 2023",
+        "credentialId": "UC-351d1d9d-1dbf-41f8-92b1-d42f46a5789b",
+        "url": "https://ude.my/UC-351d1d9d-1dbf-41f8-92b1-d42f46a5789b",
+        "image": "./assets/certificates/Udemy - Python 2.webp"
+      },
+      {
+        "title": "Learn Python like a Pro - Real Time Coding Exercises",
+        "issuer": "Udemy (Data Science Lovers)",
+        "date": "Aug. 7, 2025",
+        "credentialId": "UC-8f86fe17-aacb-4703-8192-2a3aff3bfc46",
+        "url": "https://ude.my/UC-8f86fe17-aacb-4703-8192-2a3aff3bfc46",
+        "image": "./assets/certificates/Udemy - Python 3.webp"
+      },
+      {
+        "title": "Learn To Create AI Assistant (JARVIS) With Python",
+        "issuer": "Udemy (Arbaz Khan)",
+        "date": "Sept. 1, 2025",
+        "credentialId": "UC-d1167e06-d2a0-4b05-9e06-54312e73e435",
+        "url": "https://ude.my/UC-d1167e06-d2a0-4b05-9e06-54312e73e435",
+        "image": "./assets/certificates/Udemy - Python AI assistant.webp"
+      },
+      {
+        "title": "Learn Python Programming: by Building a Facebook ChatBot App",
+        "issuer": "Udemy (Temotec Learning Academy)",
+        "date": "Aug. 23, 2025",
+        "credentialId": "UC-882a7eda-22e4-47ea-aa77-89525ff4ea57",
+        "url": "https://ude.my/UC-882a7eda-22e4-47ea-aa77-89525ff4ea57",
+        "image": "./assets/certificates/Udemy - Python Facebook chatbot.webp"
+      },
+      {
+        "title": "Python Machine Learning: From Beginner to Pro",
+        "issuer": "Udemy (Learnify IT)",
+        "date": "Sept. 1, 2025",
+        "credentialId": "UC-e1955d04-5ac5-4a10-9e5a-18440c33ce82",
+        "url": "https://ude.my/UC-e1955d04-5ac5-4a10-9e5a-18440c33ce82",
+        "image": "./assets/certificates/Udemy - Python Machine Learning.webp"
+      },
+      {
+        "title": "The Web Front End Learning Guide",
+        "issuer": "Udemy (Hassan Fulaih)",
+        "date": "March 18, 2024",
+        "credentialId": "UC-be12eda1-c2e7-47a0-9fff-c24269b81604",
+        "url": "https://ude.my/UC-be12eda1-c2e7-47a0-9fff-c24269b81604",
+        "image": "./assets/certificates/Udemy - Web development.webp"
+      },
+      {
+        "title": "تصميم مواقع الانترنت المستوى الاول (Web Design Level 1)",
+        "issuer": "Nadrus.com (Trainer: علي حمدي)",
+        "date": "2023-07-10",
+        "credentialId": "660567",
+        "url": "https://www.nadrus.com/certificate/3r0oc84g",
+        "image": "./assets/certificates/ندرس - Web development.webp"
+      }
+    ],
+    "Languages": [
+      {
+        "title": "Business English Track (Round 2)",
+        "issuer": "Digital Egypt Pioneers Initiative / Berlitz Egypt",
+        "date": "November 2024 - May 2025",
+        "credentialId": "",
+        "url": "",
+        "image": "./assets/certificates/DEPI - English.webp"
+      },
+      {
+        "title": "Deutschkurs Niveaustufe A2 (Intensivkurs)",
+        "issuer": "BLC Language Academy, Kairo",
+        "date": "02/10/2023 - 07/11/2023",
+        "credentialId": "",
+        "url": "",
+        "image": "./assets/certificates/Deutsch certifikat - A2- Yousuf .webp"
+      }
+    ]
+  },
+  "contact": {
+    "email": "yousufgamal007@gmail.com",
+    "phone": "+20 101 5564 659",
+    "location": "Cairo, Egypt"
+  }
+}

@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yousuf Gamal Eldeen | Medical Student & Software Developer Portfolio</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+        content="Yousuf Gamal Eldeen - Medical Student and Software Developer specializing in healthcare technology, web development, and innovative solutions. View my projects, skills, and certifications.">
+    <meta name="keywords"
+        content="Yousuf Gamal Eldeen, medical student, software developer, web developer, healthcare technology, full stack developer, React, Node.js, Python, Cairo, Egypt">
+    <meta name="author" content="Yousuf Gamal Eldeen">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+
+    <!-- Open Graph Tags (Facebook, LinkedIn) -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Yousuf Gamal Eldeen | Medical Student & Software Developer">
+    <meta property="og:description"
+        content="Medical Student and Software Developer specializing in healthcare technology. View my projects, skills, and certifications.">
+    <meta property="og:url" content="https://yousufahmed27.github.io/portfolio">
+    <meta property="og:image" content="https://yousufahmed27.github.io/portfolio/assets/images/og-image.jpg">
+    <meta property="og:site_name" content="Yousuf Gamal Eldeen Portfolio">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Yousuf Gamal Eldeen | Medical Student & Software Developer">
+    <meta name="twitter:description"
+        content="Medical Student and Software Developer specializing in healthcare technology. View my projects, skills, and certifications.">
+    <meta name="twitter:image" content="https://yousufahmed27.github.io/portfolio/assets/images/og-image.jpg">
+    <meta name="twitter:creator" content="">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="./assets/images/icon-192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="./assets/images/icon-512.png">
+    <link rel="icon" type="image/png" sizes="1024x1024" href="./assets/images/1024.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/apple-touch-icon.png">
+    <link rel="shortcut icon" href="./assets/images/icon-192.png">
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json" id="structuredData">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Yousuf Gamal Eldeen",
+        "jobTitle": "Medical Student & Software Developer",
+        "description": "Medical student passionate about technology and software development, specializing in healthcare technology solutions.",
+        "url": "https://yousufahmed27.github.io/portfolio",
+        "sameAs": [
+            "https://github.com/YousufAhmed27",
+            "https://linkedin.com/in/yousuf-gamal-eldeen-6545a3281/"
+        ],
+        "knowsAbout": [
+            "Web Development",
+            "React",
+            "Node.js",
+            "Python",
+            "Healthcare Technology",
+            "Medical Software"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Cairo",
+            "addressCountry": "Egypt"
+        }
+    }
+    </script>
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Animated Background -->
+    <div class="background-animation">
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <span class="logo-text">YGE</span>
+            </div>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#certificates" class="nav-link">Certificates</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="nav-actions">
+                <button class="theme-toggle" id="themeToggle" title="Toggle Theme">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <div class="hamburger" id="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <div class="hero-text">
+                <p class="greeting">Hello, I'm</p>
+                <h1 class="name" id="heroName">Yousuf Gamal Eldeen</h1>
+                <h2 class="subtitle">
+                    <span class="typing-text" id="typingText"></span>
+                    <span class="cursor">|</span>
+                </h2>
+                <p class="description" id="heroDescription">
+                    Medical Student & Software Developer passionate about creating innovative solutions
+                </p>
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn btn-primary" aria-label="View my projects">
+                        <i class="fas fa-rocket"></i> View My Work
+                    </a>
+                    <a href="#contact" class="btn btn-secondary" aria-label="Contact me">
+                        <i class="fas fa-envelope"></i> Get In Touch
+                    </a>
+
+                    <a href="" class="btn btn-cv" id="cvDownload" download aria-label="Download my CV">
+                        <i class="fas fa-download"></i> Download CV
+                    </a>
+                </div>
+                <div class="social-links" id="socialLinks">
+                    <!-- Social links will be loaded from JSON -->
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="image-container">
+                    <div class="floating-element float-1" aria-hidden="true"></div>
+                    <div class="floating-element float-2" aria-hidden="true"></div>
+                    <div class="floating-element float-3" aria-hidden="true"></div>
+
+                    <!-- <div class="profile-placeholder" aria-label="Profile placeholder icon">
+                        <i class="fas fa-user-astronaut"></i>
+                    </div> -->
+
+                    <div class="profile-placeholder">
+                        <img src="./assets/images/profile.webp" alt="Yousuf Gamal Eldeen"
+                            style="width: 100%; height: 100%; object-fit: cover; border-radius: 10%;">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <div class="mouse">
+                <div class="wheel"></div>
+            </div>
+            <p>Scroll Down</p>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">01.</span> About Me
+                <span class="title-line"></span>
+            </h2>
+            <div class="about-content">
+                <div class="about-text fade-in">
+                    <p id="aboutText">
+                        <!-- Content loaded from JSON -->
+                    </p>
+                    <div class="about-stats" id="aboutStats">
+                        <!-- Stats loaded from JSON -->
+                    </div>
+                </div>
+                <div class="about-image fade-in">
+                    <div class="tech-stack">
+                        <div class="tech-icon" data-tooltip="HTML">
+                            <i class="fab fa-html5"></i>
+                        </div>
+                        <div class="tech-icon" data-tooltip="CSS">
+                            <i class="fab fa-css3-alt"></i>
+                        </div>
+                        <div class="tech-icon" data-tooltip="JavaScript">
+                            <i class="fab fa-js"></i>
+                        </div>
+                        <div class="tech-icon" data-tooltip="React">
+                            <i class="fab fa-react"></i>
+                        </div>
+                        <div class="tech-icon" data-tooltip="Node.js">
+                            <i class="fab fa-node-js"></i>
+                        </div>
+                        <div class="tech-icon" data-tooltip="Python">
+                            <i class="fab fa-python"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="projects" id="projects">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">02.</span> My Projects
+                <span class="title-line"></span>
+            </h2>
+            <div class="projects-grid" id="projectsGrid">
+                <!-- Projects loaded from JSON -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills" id="skills">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">03.</span> Skills & Technologies
+                <span class="title-line"></span>
+            </h2>
+            <div class="skills-container" id="skillsContainer">
+                <!-- Skills loaded from JSON -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Certificates Section -->
+    <section class="certificates" id="certificates">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">04.</span> Certificates & Achievements
+                <span class="title-line"></span>
+            </h2>
+            <div class="certificates-container" id="certificatesContainer">
+                <!-- Certificates loaded from JSON -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">05.</span> Get In Touch
+                <span class="title-line"></span>
+            </h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Let's Connect!</h3>
+                    <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your
+                        vision.</p>
+                    <div class="contact-details" id="contactDetails">
+                        <!-- Contact details loaded from JSON -->
+                    </div>
+                </div>
+                <form class="contact-form" id="contactForm">
+                    <div class="form-group">
+                        <input type="text" id="name" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" id="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea id="message" placeholder="Your Message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-paper-plane"></i> Send Message
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>Designed & Built by <span id="footerName">Yousuf Gamal Eldeen</span></p>
+            <p>&copy; <span id="year"></span> All Rights Reserved</p>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" title="Back to Top" aria-label="Scroll back to top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+# robots.txt for portfolio website
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yousufahmed27.github.io/portfolio/sitemap.xml
+
+# Disallow certain paths if needed (currently none)
+# Disallow: /private/
